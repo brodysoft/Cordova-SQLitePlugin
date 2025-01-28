@@ -2,6 +2,8 @@
 
 #### cordova-sqlite-storage 6.1.1-dev
 
+- minimum Android API -> 24 (Android 7.0), with 16 KB page alignment update, from cordova-sqlite-storage-dependencies@5.0.0
+
 #### cordova-sqlite-storage 6.1.0
 
 - SQLite 3.40.0 update from cordova-sqlite-storage-dependencies@4.1.0
